@@ -25,7 +25,9 @@ utilizando diferentes criterios de búsqueda.
 
 ## NOTAS DE VERSIÓN
 V1.0.2.0:
+
     *Paquetes Nuget actuallizados
+    
     *Licencia actualizada.
 
 ## CONTENIDO
