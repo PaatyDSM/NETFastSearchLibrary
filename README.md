@@ -328,7 +328,10 @@ respectivamente con diferentes criterios de búsqueda. Estos métodos devuelven 
     }
 
 #### Long paths Windows limitation
-Una clave de registro permite habilitar o deshabilitar el nuevo comportamiento de ruta larga en Windows. Para habilitar el comportamiento de ruta larga, abra el editor de registro y siga la siguiente ruta: 'HKLM\SYSTEM\CurrentControlSet\Control\FileSystem'.
+Una clave de registro permite habilitar o deshabilitar el nuevo comportamiento de ruta larga en Windows.
+Para habilitar el comportamiento de ruta larga, abra el editor de registro y siga la siguiente ruta:
+'HKLM\SYSTEM\CurrentControlSet\Control\FileSystem'.
+
 Luego cree el parámetro: 'LongPathsEnabled' (escriba REG_DWORD) con el valor '1' y reinicie su computadora.
 
 ### VELOCIDAD DE TRABAJO
